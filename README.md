@@ -1,4 +1,4 @@
-# 5xflipside
+# 5xFlipSide
 A strong Encryption and Decryption Software
 
 This Software Currently Works On Windows.
